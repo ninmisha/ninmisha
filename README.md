@@ -1,7 +1,6 @@
 ## Hi, I'm Sruthi Ninmisha
 
 🧠Computer science student at Jain University
-
 🌈I created a weather based application to check weather
 
 ## 🌐 Socials:
